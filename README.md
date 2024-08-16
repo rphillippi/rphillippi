@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Renata Phillippi</h1>
 <h3 align="center">A strategic designer who loves to tackle wicked problems with creative solutions.</h3>
 
-- 🔭 I’m currently working on **Federal Website Standards**
+- 🔭 I’m currently working on [Federal Website Standards](https://github.com/orgs/GSA-TTS/projects/48/views/1)
 
-- 🌱 I’m currently learning **how to use GitHub, Figma, Surface Pattern Design, and Illustrator.**
+- 🌱 I’m currently learning **how to use GitHub, Surface Pattern Design, and Illustrator.**
 
-- 👯 I’m looking to collaborate on **projects related to AI, Design Ops, and social justice.**
+- 👯 I’m looking to collaborate on **projects related to AI, Figma, Design Ops, and social justice.**
 
 - 📫 How to reach me **renata.phillippi@gsa.gov**
 
