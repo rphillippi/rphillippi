@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **projects related to AI, Design Ops, and social justice.**
 
+- 📫 How to reach me **renata.phillippi@gsa.gov**
+
 - ⚡ Fun fact **I learned to use chopsticks in Hong Kong.**
 
 <h3 align="left">Connect with me:</h3>
