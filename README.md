@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renata Phillippi</h1>
-<h3 align="center">A mix of product and service designer who focuses on marrying the business and users needs to ensure a win win.</h3>
+<h3 align="center">A strategic designer who loves to tackle wicked problems with creative solutions.</h3>
 
 - 🔭 I’m currently working on **Federal Website Standards**
 
