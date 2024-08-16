@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Federal Website Standards**
 
-- 🌱 I’m currently learning **How to use GitHub, Surface Pattern Design, and Illustrator.**
+- 🌱 I’m currently learning **how to use GitHub, Surface Pattern Design, and Illustrator.**
 
 - 👯 I’m looking to collaborate on **projects related to AI, Design Ops, and social justice.**
 
