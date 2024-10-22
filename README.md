@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renata Phillippi</h1>
-<h3 align="center">A strategic designer who loves to tackle wicked problems with creative solutions.</h3>
+<h3 align="center">A strategic design manager who loves to tackle wicked problems with creative solutions.</h3>
 
 - 🔭 I’m currently working on [Federal Website Standards](https://github.com/orgs/GSA-TTS/projects/48/views/1)
 
